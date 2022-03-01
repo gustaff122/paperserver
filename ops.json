@@ -1,0 +1,44 @@
+[
+  {
+    "uuid": "3b19a311-e16b-38a8-b795-f3bb7e390ba2",
+    "name": "Ksertosa",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "4671d956-be9c-387b-8591-6dc6b495b82d",
+    "name": "Ksertos",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "97caacc1-b541-460e-a66d-50a2e6c22523",
+    "name": "Ksertos",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f1aa9cb4-4271-395d-95cc-7510583bdfc9",
+    "name": "Fabianuwski",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "cf9c42b5-1501-498a-94d1-c39dacf7a2be",
+    "name": "gustaff122",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "4ce502fb-4198-31a1-9d4e-c0c34dbc3430",
+    "name": "gustaff122",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "923859ef-d592-3689-b93e-c1d44dfb9fe7",
+    "name": "brzydkiekwiaty",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
